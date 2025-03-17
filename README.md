@@ -49,7 +49,6 @@ February 2024
 Design Engineer in the field of rocket and space technology  
 
 ## KEY SKILLS
-- Разработка и реализация инженерных проектов в области экспериментального ракетостроения и аэрокосмической техники.  
 - Development and implementation of engineering projects in the field of experimental rocketry and aerospace technology.  
 - Development of educational courses and methodological materials for additional education.  
 - Programming in Python, HTML/CSS, JavaScript, Scratch.  
